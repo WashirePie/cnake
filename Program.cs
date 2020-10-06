@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Numerics;
 
-namespace Cnake
+namespace cnake
 {
     class Program
     {
